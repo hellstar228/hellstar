@@ -11,4 +11,4 @@
 
 ---
 
-hellstar@GitHub
+hellstar@github
