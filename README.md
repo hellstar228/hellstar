@@ -1,6 +1,4 @@
-# [MYKOLA]
-
-> [Коротка фраза про себе: наприклад, Building digital products with soul.]
+# MYKOLA
 
 - 🎓 **Education:** [Kyiv National University of Trade and Economics]
 - 📍 **Location:** [Kyiv, Ukraine]
@@ -13,4 +11,4 @@
 
 ---
 
-[hellstar] @ GitHub
+hellstar@GitHub
